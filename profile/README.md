@@ -10,6 +10,7 @@ The Montoya-Castillo group is a theoretical chemistry group based in the Departm
 We are building a dynamic group of scientists harnessing multidisciplinary skills that span physical chemistry, condensed matter physics, and quantum information science. We are looking for enthusiastic graduate students & postdocs interested in tackling problems of charge and energy transfer dynamics in the condensed phase that underpin forefront areas of chemistry such as catalysis at electrode surfaces, solar energy conversion, and quantum computing. For more details on our research, see the Research sections. 
 
 We encourage undergraduate, graduate, and postdoctoral researchers interested in joining us or learning more about the group to contact me by email. 
+![Group photo](https://github.com/user-attachments/assets/475293d6-7289-47a0-8fc5-f4430ed26dc8)
 
 <!--
 
