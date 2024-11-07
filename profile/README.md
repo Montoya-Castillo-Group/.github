@@ -1,8 +1,15 @@
-## Welcome 👋
-We are building a dynamic group of scientists harnessing multidisciplinary skills that span physical chemistry, condensed matter physics, and quantum information science. We are looking for enthusiastic graduate students & postdocs interested in tackling problems of charge and energy transfer dynamics in the condensed phase that underpin forefront areas of chemistry such as catalysis at electrode surfaces, solar energy conversion, and quantum computing.
+## Research
+Our research centers on developing & applying theoretical & simulation methods to investigate the quantum and classical dynamics of condensed phase systems & straddles the boundaries between physical chemistry, condensed matter physics, & quantum information. This is critical in addressing problems spanning enabling interfacial catalysis and tuning transport for innovations in renewable energy, taming noise in quantum information devices to unlock the next generation of processors and sensors, and elucidating biomolecular mechanisms that could hold the key to developing novel therapies for devastating diseases.
+
+## About the Group
+The Montoya-Castillo group is a theoretical chemistry group based in the Department of Chemistry at the University of Colorado Boulder.
+
+We are building a dynamic group of scientists harnessing multidisciplinary skills that span physical chemistry, condensed matter physics, and quantum information science. We are looking for enthusiastic graduate students & postdocs interested in tackling problems of charge and energy transfer dynamics in the condensed phase that underpin forefront areas of chemistry such as catalysis at electrode surfaces, solar energy conversion, and quantum computing. For more details on our research, see the Research sections. 
+
+We encourage undergraduate, graduate, and postdoctoral researchers interested in joining us or learning more about the group to contact me by email. 
 
 ## Useful Resources and Documentation
-As we begin to roll out software, this section will populate with links to the associated documentation and publications.
+As we roll out software, this section will populate with links to the associated documentation and publications.
 
 <!--
 
