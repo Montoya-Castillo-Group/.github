@@ -1,5 +1,8 @@
-## Hi there 👋
+## Welcome 👋
 We are building a dynamic group of scientists harnessing multidisciplinary skills that span physical chemistry, condensed matter physics, and quantum information science. We are looking for enthusiastic graduate students & postdocs interested in tackling problems of charge and energy transfer dynamics in the condensed phase that underpin forefront areas of chemistry such as catalysis at electrode surfaces, solar energy conversion, and quantum computing.
+
+## Useful Resources and Documentation
+As we begin to roll out software, this section will populate with links to the associated documentation and publications.
 
 <!--
 
