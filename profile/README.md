@@ -12,9 +12,11 @@ We are building a dynamic group of scientists harnessing multidisciplinary skill
 We encourage undergraduate, graduate, and postdoctoral researchers interested in joining us or learning more about the group to contact me by email. 
 
 
-![Group photo](https://github.com/user-attachments/assets/475293d6-7289-47a0-8fc5-f4430ed26dc8)
+![Group photo](https://github.com/user-attachments/assets/e78f4174-0801-430e-972c-5a7a4f0ca394)
+
 
 <!--
+
 
 **Here are some ideas to get you started:**
 
